@@ -1,0 +1,15 @@
+{
+  "name": "npmtest1",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bismarkanes/npmtest1.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bismarkanes/npmtest1/issues"
+  },
+  "homepage": "https://github.com/bismarkanes/npmtest1#readme"
+}
