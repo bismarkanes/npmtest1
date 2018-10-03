@@ -11,5 +11,8 @@
   "bugs": {
     "url": "https://github.com/bismarkanes/npmtest1/issues"
   },
-  "homepage": "https://github.com/bismarkanes/npmtest1#readme"
+  "homepage": "https://github.com/bismarkanes/npmtest1#readme",
+  "dependencies": {
+    "eslint": "^5.6.1"
+  }
 }
